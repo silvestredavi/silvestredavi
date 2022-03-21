@@ -1,8 +1,6 @@
 ### Oi, meu nome é Davi Silvestre
 
-- 🔭 Atualmente não trabalho com desenvolvimento.
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal.
-- 💬 No momento estou fazendo cursos de JAVA Avançado na UDEMY. 
 - 📫 Meu e-mail para contato é: davisilvestre9@gmail.com
 
 <div>
